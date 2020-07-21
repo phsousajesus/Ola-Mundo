@@ -4,3 +4,5 @@
  Repositório durante a quinta aula do curso em video
  
  Essa linha eu adicionei diretamente no site.
+
+ Curso disponível no **github** no *youtube*
